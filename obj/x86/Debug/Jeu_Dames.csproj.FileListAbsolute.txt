@@ -1,0 +1,19 @@
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\bin\Debug\Jeu_Dames.exe
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\bin\Debug\Jeu_Dames.pdb
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\Jeu_Dames.Form1.resources
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\Jeu_Dames.Properties.Resources.resources
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\Jeu_Dames.exe
+c:\users\gmi\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\Jeu_Dames.pdb
+C:\Users\GMI\documents\visual studio 2010\Projects\Jeu_Dames\Jeu_Dames\obj\x86\Debug\Jeu_Dames.Grille.resources
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.exe
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.pdb
+C:\Users\GMI-PC\Desktop\Jeu_Dames\bin\Debug\Jeu_Dames.exe
+C:\Users\GMI-PC\Desktop\Jeu_Dames\bin\Debug\Jeu_Dames.pdb
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.csprojResolveAssemblyReference.cache
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.Form1.resources
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.Grille.resources
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.Properties.Resources.resources
+C:\Users\GMI-PC\Desktop\Jeu_Dames\obj\x86\Debug\Jeu_Dames.csproj.GenerateResource.Cache
